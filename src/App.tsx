@@ -468,7 +468,7 @@ function App() {
               <div className="flex flex-col md:flex-row items-center justify-center gap-6">
                 <div className="w-24 h-24 rounded-full overflow-hidden ring-2 ring-blue-500/50 bg-gradient-to-b from-blue-900/20 to-black/40">
                   <img 
-                    src="/developer.jpg" 
+                    src="https://github.com/svsairevanth12/CODECRAFTA/blob/main/developer.jpg" 
                     alt="Developer" 
                     className="w-full h-full object-cover object-top transform -translate-y-1 scale-110"
                   />
